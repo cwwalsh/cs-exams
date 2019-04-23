@@ -14,4 +14,4 @@ sidebar_label: Home
 * [Microprocessor Systems](microprocessor-systems.md)
 * [Systems Programming](systems-programming.md)
 * [Telecommunications II](telecommunications-ii.md)
-* [Intermediate Programming & Natural Language Processinf]()
+* [Intermediate Programming & Natural Language Processing](nlp.md)
